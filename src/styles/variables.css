@@ -1,0 +1,18 @@
+:root {
+    /* Colors */
+    --color-blue: rgba(58, 87, 232, 1);
+    --color-grey: rgba(108, 117, 125, 1);
+    --color-green: rgba(26, 160, 83, 1);
+    --color-red: rgba(192, 50, 33, 1);
+    --color-orange: rgba(241, 106, 27, 1);
+    --color-light-blue: rgba(7, 154, 162, 1);
+    --color-white: rgba(222, 226, 230, 1);
+    --color-black: rgba(33, 37, 41, 1);
+
+    /* Font colors */
+    --font-color-heading: #232d42;
+    --font-color-display: #8a92a6;
+    --font-color-regular: #8a92a6;
+    --font-color-highlight: #000000;
+    --font-color-blockquote: #6c757d;
+}
